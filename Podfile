@@ -10,5 +10,6 @@ target 'Parstagram' do
   pod 'AlamofireImage'
   # This pulls in the latest version of Parse. 
   pod 'Parse'
+  pod 'MessageInputBar'
 
 end
